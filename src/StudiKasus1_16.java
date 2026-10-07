@@ -5,9 +5,9 @@
 
             Scanner aldo = new Scanner(System.in);
 
-            int hargaPerCup = 18000;
-            int syaratMinBelanja = 100000;
-            int persenDiskon = 10;
+            int hargaPerCup = 19000;
+            int syaratMinBelanja = 90000;
+            int persenDiskon = 9;
 
             int jumlahCup;
             int uangBayar;
